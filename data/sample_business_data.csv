@@ -1,0 +1,20 @@
+date,product,category,units_sold,revenue,customer_city,customer_age,channel
+2024-01-01,Wireless Headphones,Electronics,45,5625,New York,28,Online
+2024-01-01,USB-C Cable,Accessories,120,1800,Los Angeles,35,Online
+2024-01-02,Laptop Stand,Office,23,1495,Chicago,42,Retail
+2024-01-02,Wireless Mouse,Electronics,67,3350,Austin,24,Online
+2024-01-03,Monitor 27",Electronics,12,3600,San Francisco,31,Retail
+2024-01-03,Keyboard,Office,34,2380,Boston,29,Online
+2024-01-04,External SSD,Electronics,18,3240,Seattle,26,Online
+2024-01-04,Desk Lamp,Office,56,1400,Dallas,38,Retail
+2024-01-05,Wireless Headphones,Electronics,32,4000,Miami,22,Online
+2024-01-05,USB-C Cable,Accessories,89,1335,Denver,33,Online
+2024-01-06,Laptop Stand,Office,15,975,Portland,41,Retail
+2024-01-06,Wireless Mouse,Electronics,45,2250,Phoenix,27,Online
+2024-01-07,Monitor 27",Electronics,8,2400,New York,34,Retail
+2024-01-07,Keyboard,Office,28,1960,Los Angeles,30,Online
+2024-01-08,External SSD,Electronics,14,2520,Chicago,25,Online
+2024-01-08,Desk Lamp,Office,38,950,Austin,39,Retail
+2024-01-09,Wireless Headphones,Electronics,27,3375,San Francisco,29,Online
+2024-01-09,USB-C Cable,Accessories,95,1425,Boston,36,Online
+2024-01-10,Laptop Stand,Office,19,1235,Seattle,45,Retail
